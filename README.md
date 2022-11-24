@@ -13,6 +13,7 @@
 ## SQL
 |Title|Description|Link|
 |-----|-----------|----|
+|📝 SQL Interview Questions|My attempt at interview questions from top tech companies|[Link](https://github.com/suyinglim97/SQL-Interview-Questions)
 
 ## Power BI
 |Title|Description|Link|
